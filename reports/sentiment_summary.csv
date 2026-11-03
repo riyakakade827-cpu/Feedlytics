@@ -1,0 +1,5 @@
+expected_sentiment,total_reviews,percentage
+Positive,233,46.6
+Negative,126,25.2
+Neutral,76,15.2
+Mixed,65,13.0
