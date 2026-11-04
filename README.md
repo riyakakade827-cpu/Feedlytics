@@ -53,6 +53,43 @@ Feedlytics/
 4. **Topic Discovery:** Uses TF-IDF and K-Means to group similar reviews.
 5. **Interactive Dashboard:** Provides filters, charts, KPIs, and a review explorer.
 
+## 📸 Dashboard Preview
+
+### 1. Dashboard Overview
+Get a quick view of customer feedback, key metrics and overall sentiment.
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### 2. Customer Feedback Analysis
+Explore customer feedback themes and identify recurring issues.
+
+![Customer Feedback Themes](screenshots/customer-feedback-themes.png)
+
+### 3. Category Analysis
+Compare feedback and performance across product categories.
+
+![Category Analysis](screenshots/category-analysis.png)
+
+### 4. Product Performance
+Explore product-level insights and customer ratings.
+
+![Product Performance](screenshots/product-performance.png)
+
+### 5. Sentiment Analysis
+Understand the distribution of positive, negative, neutral and mixed reviews.
+
+![Sentiment Analysis](screenshots/sentiment-analysis.png)
+
+### 6. Dashboard Filters
+Interactively filter customer feedback to explore specific results.
+
+![Dashboard Filters](screenshots/dashboard-filters.png)
+
+### 7. Customer Review Explorer
+Explore individual reviews and their associated analysis.
+
+![Review Explorer](screenshots/review-explorer.png)
+
 ## Dataset
 
 The project currently uses a synthetic dataset containing 500 customer reviews across five product categories.
